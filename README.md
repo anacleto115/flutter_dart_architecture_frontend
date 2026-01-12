@@ -1,1 +1,8 @@
-# flutter_dart_architecture_frontend
+© 2023 [Andres Felipe Albanes/Owner]
+
+* Flutter + Dart
+* Call Services
+* Clean Architecture
+* Solid Principles
+* Domain Driven Desing
+* Hexagonal Architecture
